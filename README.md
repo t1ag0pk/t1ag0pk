@@ -7,6 +7,10 @@ Estudante de **Tecnologias da Informação e Comunicação** na **UFSC**. Sou ap
 - **Controle de Abastecimento**: Sistema completo em Python e SQLite para gestão de consumo de combustível.
 
 ## 🛠️ Tecnologias e Ferramentas:
+- **Linguagens:** Python, Java, SQL.
+- **Banco de Dados:** SQLite.
+- **Outros:** Automação de scripts, Git/GitHub, Análise de Dados.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
