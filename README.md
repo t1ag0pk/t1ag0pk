@@ -12,12 +12,12 @@ Estudante de **Tecnologias da Informação e Comunicação** na **UFSC**. Sou ap
 - **Outros:** Automação de scripts, Git/GitHub, Análise de Dados.
 
 ## 📊 Estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=t1ag0pk&show_icons=true&theme=tokyonight)
+![Estatísticas do Tiago](https://github-readme-stats.vercel.app/api?username=t1ag0pk&show_icons=true)
 
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Tiago Gonçalves Mengue](https://www.linkedin.com/in/tiago-g-mengue)
+- **LinkedIn:** [Tiago Gonçalves Mengue]([https://www.linkedin.com/in/tiago-g-mengue](https://www.linkedin.com/in/tiago-gon%C3%A7alves-mengue-036649347/))
 - **E-mail:** [t1ag0123g.m@gmail.com]
 
 *"Transformando lógica em soluções eficientes."*
