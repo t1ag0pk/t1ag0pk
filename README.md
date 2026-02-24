@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Tiago! 👋
 
-<!--
-**t1ag0pk/t1ag0pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Tecnologias da Informação e Comunicação** na **UFSC**. Sou apaixonado por resolver problemas através do código, com foco em automação e desenvolvimento backend.
 
-Here are some ideas to get you started:
+## 🚀 No que estou trabalhando no momento:
+- **RoadScan**: Um projeto focado em processamento e mapeamento de dados utilizando Python.
+- **Controle de Abastecimento**: Sistema completo em Python e SQLite para gestão de consumo de combustível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas:
+- **Linguagens:** Python, Java, SQL.
+- **Banco de Dados:** SQLite.
+- **Outros:** Automação de scripts, Git/GitHub, Análise de Dados.
+
+## 📊 Estatísticas:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=t1ag0pk&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [Tiago Gonçalves Mengue](in/tiago-gon%C3%A7alves-mengue-036649347)
+- **E-mail:** [t1ag0123g.m@gmail.com]
+
+*"Transformando lógica em soluções eficientes."*
