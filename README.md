@@ -17,7 +17,7 @@ Estudante de **Tecnologias da Informação e Comunicação** na **UFSC**. Sou ap
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Tiago Gonçalves Mengue]([https://www.linkedin.com/in/tiago-g-mengue](https://www.linkedin.com/in/tiago-gon%C3%A7alves-mengue-036649347/))
+- **LinkedIn:** [Tiago Gonçalves Mengue](https://www.linkedin.com/in/tiago-gon%C3%A7alves-mengue-036649347/)
 - **E-mail:** [t1ag0123g.m@gmail.com]
 
 *"Transformando lógica em soluções eficientes."*
