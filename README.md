@@ -12,7 +12,12 @@ Estudante de **Tecnologias da Informação e Comunicação** na **UFSC**. Sou ap
 - **Outros:** Automação de scripts, Git/GitHub, Análise de Dados.
 
 ## 📊 Estatísticas:
-![Estatísticas do Tiago](https://github-readme-stats.vercel.app/api?username=t1ag0pk&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1ag0pk&layout=compact&theme=tokyonight)
+
+
+
+## 📊 Estatísticas:
+![Estatísticas do Tiago](https://github-readme-stats.vercel.app/api?username=t1ag0pk&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
